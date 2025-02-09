@@ -1,3 +1,12 @@
+'''
+1. Run the following wget command line in the terminal to download dataset as spacex_launch_dash.csv
+wget "https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DS0321EN-SkillsNetwork/datasets/spacex_launch_dash.csv"
+2. Download a skeleton Dash app to be completed in this lab:
+wget "https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DS0321EN-SkillsNetwork/labs/module_3/spacex_dash_app.py"
+3. 
+    Test the skeleton app by running the following command in the terminal:
+    python3.11 spacex_dash_app.py
+'''
 # Import required libraries
 import pandas as pd
 import dash
